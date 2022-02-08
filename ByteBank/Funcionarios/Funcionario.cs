@@ -19,7 +19,6 @@ namespace ByteBank.Funcionarios
             CPF = cpf;
             Salario = salario;
         }
-
         public abstract void AumentarSalario();
 
         // classes abstratas não podem ter implementação
