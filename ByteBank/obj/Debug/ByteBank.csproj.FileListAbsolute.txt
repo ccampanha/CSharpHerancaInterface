@@ -1,8 +1,0 @@
-C:\projetos\estudos\CSharp\Alura\FormacaoCSharp\CSharpHerancaInterface\ByteBank\ByteBank\bin\Debug\ByteBank.exe.config
-C:\projetos\estudos\CSharp\Alura\FormacaoCSharp\CSharpHerancaInterface\ByteBank\ByteBank\bin\Debug\ByteBank.exe
-C:\projetos\estudos\CSharp\Alura\FormacaoCSharp\CSharpHerancaInterface\ByteBank\ByteBank\bin\Debug\ByteBank.pdb
-C:\projetos\estudos\CSharp\Alura\FormacaoCSharp\CSharpHerancaInterface\ByteBank\ByteBank\obj\Debug\ByteBank.csproj.AssemblyReference.cache
-C:\projetos\estudos\CSharp\Alura\FormacaoCSharp\CSharpHerancaInterface\ByteBank\ByteBank\obj\Debug\ByteBank.csproj.SuggestedBindingRedirects.cache
-C:\projetos\estudos\CSharp\Alura\FormacaoCSharp\CSharpHerancaInterface\ByteBank\ByteBank\obj\Debug\ByteBank.csproj.CoreCompileInputs.cache
-C:\projetos\estudos\CSharp\Alura\FormacaoCSharp\CSharpHerancaInterface\ByteBank\ByteBank\obj\Debug\ByteBank.exe
-C:\projetos\estudos\CSharp\Alura\FormacaoCSharp\CSharpHerancaInterface\ByteBank\ByteBank\obj\Debug\ByteBank.pdb
